@@ -2,6 +2,7 @@ package newpackage;
 
 public class Student {
 
+	//if i change somethings
 	private String studentName, studentCourse;
 	private int studentNumber;
 
